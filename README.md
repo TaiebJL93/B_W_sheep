@@ -22,7 +22,7 @@ juming_step : jumping a sheep on another sheep <br>
 checking_jump : check if a sheep can jump or not. <br>
 
 <h3>Warning</h3>
-Make sure to put both B_W_sheep.py and main.py in the same directory before usage.<br>
+Make sure to put both b_w_sheep.py and main.py in the same directory before usage.<br>
 
 <h1>Usage:</h1>
 <br>
