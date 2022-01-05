@@ -8,8 +8,8 @@ In this project, we are attempting to solve the Black&White sheeps problem and w
 
 
 <h1>Symbols in algorithm</h1>
-number_B : The number of the Black sheeps <br>
-number_W : The number of the white sheeps <br>
+number_b : The number of the Black sheeps <br>
+number_w : The number of the white sheeps <br>
 "B" : Black sheep <br>
 "W" : White sheep <br>
 index : the index of the space in the list <br>
