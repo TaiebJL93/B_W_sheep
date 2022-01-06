@@ -8,8 +8,8 @@ In this project, we are attempting to solve the Black&White sheeps problem and w
 
 
 <h1>Symbols in algorithm</h1>
-number_B : The number of the Black sheeps <br>
-number_W : The number of the white sheeps <br>
+number_b : The number of the Black sheeps <br>
+number_w : The number of the white sheeps <br>
 "B" : Black sheep <br>
 "W" : White sheep <br>
 index : the index of the space in the list <br>
@@ -22,7 +22,7 @@ juming_step : jumping a sheep on another sheep <br>
 checking_jump : check if a sheep can jump or not. <br>
 
 <h3>Warning</h3>
-Make sure to put both B_W_sheep.py and main.py in the same directory before usage.<br>
+Make sure to put both b_w_sheep.py and main.py in the same directory before usage.<br>
 
 <h1>Usage:</h1>
 <br>
