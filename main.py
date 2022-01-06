@@ -85,7 +85,7 @@ def main():
                 my_function.moving_sheep(save, First_list, index)
             else:
                 print("Blocking step")
-                sys.exit()
+                #sys.exit()
         else:
             if First_list[index-1] == First_list[index+1]:
                 if my_function.checking_jump("B", First_list, index) or my_function.checking_jump("W", First_list, index):
