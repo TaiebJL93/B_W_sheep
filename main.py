@@ -1,5 +1,6 @@
 import argparse
 import sys
+
 from b_w_sheep import SheepProblem
 
 # pylint: disable=missing-function-docstring
